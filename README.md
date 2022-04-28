@@ -10,11 +10,11 @@ A repository for all web output
 <h1>Student List</h1>
 <h3>IS - 1A</h3>
   <ul>
-  <li>John Doe - <a target="_new" href="https://cis202.nikie-jojo.repl.co/">https://cis202.nikie-jojo.repl.co/</a></li>
+  <li>John Doe - <a target="_blank" href="https://cis202.nikie-jojo.repl.co/">https://cis202.nikie-jojo.repl.co/</a></li>
   </ul>
 <hr>
   <h1>Student List</h1>
   <h3>IS - 1B</h3>
   <ul>
-  <li>John Doe - <a target="_new" href="https://cis202.nikie-jojo.repl.co/">https://cis202.nikie-jojo.repl.co/</a></li>
+  <li>John Doe - <a target="_blank" href="https://cis202.nikie-jojo.repl.co/">https://cis202.nikie-jojo.repl.co/</a></li>
   </ul>
